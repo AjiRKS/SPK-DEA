@@ -1,0 +1,57 @@
+/* Halaman Login*/
+body {
+	background-color: #eee;
+}
+
+#login-box {
+	margin-top: 10%;
+	padding-top: 20px;
+}
+
+#login-button {
+	text-align: center;
+	width: 100%;
+}
+
+form {
+	margin-bottom: 30px;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+#login-text {
+	color: #D9230D;
+	text-align: center;
+	margin-bottom: 10%;
+}
+
+#copyright {
+	color: #555;
+	text-align: center;
+}
+
+
+/* Home */
+#logo {
+	width: 64px;
+	height: 22px;
+}
+
+#p1, #p2, #p3, #p4 {
+  	padding-left: 30px;
+} /* Supaya Sub-Menu pada sidebar menjorok ke kanan */
+
+#deskripsi {
+	text-align: justify;
+}
+
+/* Table */
+th, td {
+	text-align: center;
+}
+
+/* Progress Bar Merah pada Dashboard */
+.progress-bar-danger {
+	background-color: #D5220F;
+}
+
