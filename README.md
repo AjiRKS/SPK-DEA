@@ -3,7 +3,7 @@
 ## User Admin
 | No | Username | Password | Level |
 | :-: | :-: | :-: | :-: | :-: |
-| 1 | superadmin    | superadmin | Superadmin | |
+| 1 | superadmin    | superadmin | Superadmin |
 
 ## System Requirement Specification (SRS)
 1. Autentikasi
