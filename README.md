@@ -1,7 +1,7 @@
 # Sistem Pengukuran Efisiensi Program Studi Menggunakan Data Envelopment Analysis (DEA)
 
 ## User Admin
-| No | Username | Password | Level | Cabang prodi |
+| No | Username | Password | Level |
 | :-: | :-: | :-: | :-: | :-: |
 | 1 | superadmin    | superadmin | Superadmin | |
 
